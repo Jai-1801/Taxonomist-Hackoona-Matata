@@ -56,16 +56,15 @@ The app should now be running at localhost.
 
 ---
 ## Frontend Preview:
-![image](https://github.com/user-attachments/assets/26462f13-539c-45ab-865a-5f6685792d33)
+![image](https://github.com/user-attachments/assets/9d84478b-6506-42d7-8db6-0fd2dbb4d4b7)
 
+![image](https://github.com/user-attachments/assets/605a5984-6a1c-4891-8ebb-45622c491b83)
 
-![image](https://github.com/user-attachments/assets/131cbe42-a835-4bfa-82fe-df959c289bc2)
+![image](https://github.com/user-attachments/assets/19e8b27b-af04-4481-af27-816b4915f107)
 
-![Screenshot 2025-03-01 102650](https://github.com/user-attachments/assets/5fd23a60-c568-4319-82bc-5dfb68de773a)
-![Screenshot 2025-03-01 102700](https://github.com/user-attachments/assets/3dc4a74e-e310-4792-99df-c3d6b9e0c2e7)
+![image](https://github.com/user-attachments/assets/65826e07-b789-43b5-8bc3-494131e0e088)
 
-
-
+![image](https://github.com/user-attachments/assets/46c714cb-0e65-4c6e-9161-006f312aa1e5)
 
 
 ## 📜 Model Overview  
