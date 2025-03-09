@@ -66,6 +66,8 @@ The app should now be running at localhost.
 
 ![image](https://github.com/user-attachments/assets/46c714cb-0e65-4c6e-9161-006f312aa1e5)
 
+## Video Presentation
+https://www.youtube.com/watch?v=jm0WNXT2DTs
 
 ## 📜 Model Overview  
 The Taxonomist model is based on an **agentic approach**, dynamically linking tax policies, economic behavior, and socio-economic outcomes. The system simulates different agents, including **households, corporations, governments, and external sectors**, to predict GDP and policy effectiveness.  
