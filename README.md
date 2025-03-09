@@ -1,4 +1,4 @@
-# Taxonomist - Gidy Submission
+# Taxonomist-Hackoona-Matata Submission
 
 **Predict Tax Policy Success with Machine Learning**
 
